@@ -16,6 +16,10 @@ https://diegovianaf.github.io/dark-mode-toggle/
 
 [MIT](https://github.com/diegovianaf/dark-mode-toggle/blob/main/LICENSE)
 
+## Instructor
+
+[Stephany Nusch](https://github.com/stebsnusch)
+
 ## Author
 
 [Diego Viana](https://www.linkedin.com/in/diegovianaf/)
